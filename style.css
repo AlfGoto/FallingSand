@@ -14,8 +14,8 @@
     flex-wrap: wrap;
 
     .square{
-        height: 2vh;
-        width: 2vh;
+        height: 1vh;
+        width: 1vh;
         /* border: 0.1svh black solid; */
     }
     .contains{
