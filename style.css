@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    user-select: none;
+}
+
+
+
+#fallingGrid{
+    height: 100vh;
+    width: 160vh;
+    display: flex;
+    flex-wrap: wrap;
+
+    .square{
+        height: 2vh;
+        width: 2vh;
+        /* border: 0.1svh black solid; */
+    }
+    .contains{
+        background-color: aquamarine;
+    }
+}
